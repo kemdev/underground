@@ -1,2 +1,2 @@
-<h1>This is a large heading</h1>
-<p>This is a paragraph with <em>emphasis</em> and <strong>strong</strong> text.</p>
+<h1>Der Fette Bulle</h1>
+<p>Kaiserstraße 73, 60329 Frankfurt am Main<em>emphasis</em> and <strong>strong</strong> text.</p>
